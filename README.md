@@ -1,2 +1,1 @@
-# hello-world
-first one
+its a new beginning
